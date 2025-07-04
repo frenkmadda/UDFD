@@ -5,12 +5,12 @@
 </div>
 
 <p align="center">
- <a href="#"><img src="https://img.shields.io/github/contributors/frenkamadda/UDFD?style=for-the-badge" alt="Contributors"/></a>
- <img src="https://img.shields.io/github/last-commit/frenkamadda/UDFD?style=for-the-badge" alt="last commit">
+ <a href="#"><img src="https://img.shields.io/github/contributors/frenkmadda/UDFD?style=for-the-badge" alt="Contributors"/></a>
+ <img src="https://img.shields.io/github/last-commit/frenkmadda/UDFD?style=for-the-badge" alt="last commit">
 </p>
 <p align="center">
  <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome"/></a>
- <a href="#"><img src="https://img.shields.io/github/languages/top/frenkamadda/UDFD?style=for-the-badge" alt="Languages"/></a>
+ <a href="#"><img src="https://img.shields.io/github/languages/top/frenkmadda/UDFD?style=for-the-badge" alt="Languages"/></a>
 </p>
 
 # UDFD (Unisa Deep Fake Detector)
